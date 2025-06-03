@@ -25,7 +25,6 @@ This repository contains the URDF model of a 3 Degrees of Freedom (DOF) robotic 
 
 ````
 
----
 
 ## 🎯 Features
 
@@ -48,7 +47,6 @@ This repository contains the URDF model of a 3 Degrees of Freedom (DOF) robotic 
 
 **Total: 3 DOF (Rotational)**
 
----
 
 ## 🚀 Launch Instructions
 
