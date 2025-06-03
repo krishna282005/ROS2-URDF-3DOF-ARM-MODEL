@@ -12,11 +12,6 @@ This repository contains the URDF model of a 3 Degrees of Freedom (DOF) robotic 
 .
 ├── urdf/
 │   └── arm\_2d.urdf       # Main URDF file describing the robot
-├── launch/
-│   └── display.launch.py # ROS 2 launch file for RViz visualization
-├── config/
-│   └── rviz\_config.rviz  # (Optional) Saved RViz visualization settings
-├── meshes/               # (Optional) STL/DAE files if used
 └── README.md
 
 ````
@@ -61,7 +56,9 @@ source install/setup.bash
 ### 2. Launch in RViz
 
 ```bash
-ros2 launch three_dof_robotic_arm display.launch.py
+ros2 launch urdf_tutorial display.launch.py model:=/home/kp/urdf/robotic_2d_arm/arm_2d.urdf
+#your complete file address after ":="
+# you can use "pwd" command to find the actual address of your current directory
 ```
 
 ---
