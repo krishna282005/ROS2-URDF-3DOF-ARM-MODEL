@@ -79,6 +79,8 @@ ros2 launch three_dof_robotic_arm display.launch.py
 ## 📸 Preview
 
 > (Add an image or screenshot here of your arm in RViz or Gazebo)
+file:///home/kp/Videos/Screencasts/robotic_arm_3dof.webm
+-60:-54:64:63
 
 ---
 
@@ -88,16 +90,10 @@ Feel free to open issues, submit pull requests, or suggest improvements!
 
 ---
 
-## 📄 License
-
-MIT License © 2025 Your Name
-
----
-
 ## 📬 Contact
 
-* LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-* Email: [yourname@example.com](mailto:yourname@example.com)
+* LinkedIn: [Krishna Patel](www.linkedin.com/in/krishna-patel-77b032345)
+* Email: [krishna.r282005@gmail.com](mailto:krishna.r282005@gmail.com)
 
 ```
 
