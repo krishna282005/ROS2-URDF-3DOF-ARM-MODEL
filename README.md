@@ -101,10 +101,4 @@ MIT License © 2025 Your Name
 
 ```
 
----
 
-Let me know:
-- If you’re using **Xacro** or plan to support **MoveIt**.
-- If you want help writing the `display.launch.py` file.
-- If you want a version that supports **interactive joint control**.
-```
