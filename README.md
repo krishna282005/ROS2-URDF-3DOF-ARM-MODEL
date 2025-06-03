@@ -1,8 +1,4 @@
-Here’s a well-structured and professional `README.md` file tailored for your **3-DOF Robotic Arm URDF project** using ROS 2 and RViz/Gazebo:
 
----
-
-```markdown
 # 🤖 3-DOF Robotic Arm – URDF Simulation
 
 This repository contains the URDF model of a 3 Degrees of Freedom (DOF) robotic arm designed for simulation and visualization in **ROS 2** using **RViz** and optionally **Gazebo**.
